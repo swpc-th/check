@@ -12,7 +12,7 @@
 <body>
   <!-- เปลี่ยน URL เป็นลิงก์ /exec ของ Web App ที่ Deploy แล้ว -->
   <iframe
-    src="https://script.google.com/macros/s/AKfycbwVu1IYTQQLt_n1smif3JQWFZxNDAubu_x7f64L7hrpmnk_TT0Xinws36ELnaa7HKOtpQ/exec"
+    src="https://script.google.com/macros/s/AKfycbx8xUmjZVlFsDBM6-HbykdcYy6_vVo2kirzT3J5kIFWFrqLCZPOezHtYOUIp4g_VGYAQw/exec"
     title="ตรวจสอบสถานะการสมัคร"
     loading="lazy"
     referrerpolicy="no-referrer"></iframe>
